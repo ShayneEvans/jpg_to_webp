@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qTkQnEigaMAr/sGUWWGrfax6pmAuTcQC9sy2PKz4Qcp/MNT7/T46KRIBRTUDwJ5oIknE+N1hW5rmEE9Y0Eleg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio Code\\jpg_to_webp\\jpg_to_webp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shayne Evans\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

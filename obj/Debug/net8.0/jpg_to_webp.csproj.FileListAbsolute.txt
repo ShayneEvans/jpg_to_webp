@@ -1,0 +1,17 @@
+E:\Visual Studio Code\jpg_to_webp\bin\Debug\net8.0\jpg_to_webp.exe
+E:\Visual Studio Code\jpg_to_webp\bin\Debug\net8.0\jpg_to_webp.deps.json
+E:\Visual Studio Code\jpg_to_webp\bin\Debug\net8.0\jpg_to_webp.runtimeconfig.json
+E:\Visual Studio Code\jpg_to_webp\bin\Debug\net8.0\jpg_to_webp.dll
+E:\Visual Studio Code\jpg_to_webp\bin\Debug\net8.0\jpg_to_webp.pdb
+E:\Visual Studio Code\jpg_to_webp\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.csproj.AssemblyReference.cache
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.AssemblyInfoInputs.cache
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.AssemblyInfo.cs
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.csproj.CopyComplete
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.dll
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\refint\jpg_to_webp.dll
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.pdb
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\jpg_to_webp.genruntimeconfig.cache
+E:\Visual Studio Code\jpg_to_webp\obj\Debug\net8.0\ref\jpg_to_webp.dll
